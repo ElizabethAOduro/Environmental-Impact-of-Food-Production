@@ -1,6 +1,7 @@
 # Environmental-Impact-of-Food-Production
 
 Project overview
+
 The global demand for food, energy, and water has surged due to population growth and rising affluence, creating complex interdependencies between these resources. Agriculture, a key driver of food production, significantly contributes to environmental degradation through greenhouse gas emissions, water consumption, and land use changes. This project seeks to analyze the environmental impact of various food products, focusing on factors such as carbon emissions, eutrophication, and resource utilization. By leveraging data on 43 globally common foods across multiple environmental metrics, this analysis aims to uncover patterns and propose actionable recommendations for sustainable food systems.
 
 Business Problem:
